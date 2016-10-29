@@ -1,0 +1,53 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) Q45/Q43 Express Chipset (Microsoft Corporation - WDDM 1.1) (ID=0x2e12)
+    Vendor:   Intel
+    VRAM:     943 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+Platform assembly: D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity Projects Git\2D UFO Game\Builts\2D Ufo Game 1\2d ufo game_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+d3d11: failed to create staging 2D texture w=512 h=509 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=256 h=254 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=128 h=127 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=64 h=63 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=32 h=31 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=16 h=15 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=8 h=7 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=4 h=3 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=2 h=1 d3dfmt=28 [887a0005]
+d3d11: failed to create staging 2D texture w=1 h=1 d3dfmt=28 [887a0005]
+d3d11: failed to create 2D texture id=56 width=534 height=536 mips=10 dxgifmt=28 [D3D error was 887a0005]
+
+ 
+(Filename:  Line: 531)
+
+d3d11: failed to create 2D texture shader resource view id=56 [D3D error was 80070057]
+
+ 
+(Filename:  Line: 550)
+
+UnloadTime: 0.885923 ms
+d3d11: failed to create vertex buffer of size 1920 [0x887A0005]
+d3d11: failed to create index buffer of size 96 [0x887A0005]
+d3d11: attempt to lock null vertex buffer
+d3d11: attempt to lock null index buffer
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: d38 -> priority: 1 
